@@ -14,7 +14,7 @@ I developed a "SALES TRACKER" template by using Google Sheets which is efficient
 [Click here to get the template](https://docs.google.com/spreadsheets/d/1_lsWtNfyo7FQaS-gufRl0DeGhB0UC3IcvaAG82zkq3U/edit?usp=sharing)
 
 
-## KEY FEATURES:
+## KEY FEATURES
 
 1. Tables to record and track sales. Amounts are automatically calculated by Google Sheet functions and display on dashboard.
 
