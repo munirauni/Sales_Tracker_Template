@@ -10,6 +10,7 @@ I developed a "SALES TRACKER" template by using Google Sheets which is efficient
 
 
 ![](https://github.com/munirauni/Sales_Tracker_Template/blob/main/docs/assets/Sales%20Tracker%20Template.png)
+
 [Click here to get the template](https://docs.google.com/spreadsheets/d/1_lsWtNfyo7FQaS-gufRl0DeGhB0UC3IcvaAG82zkq3U/edit?usp=sharing)
 
 
