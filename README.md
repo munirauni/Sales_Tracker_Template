@@ -9,7 +9,7 @@ As sales executive, our main role is to close new sales and follow up clients on
 I developed a "SALES TRACKER" template by using Google Sheets which is efficient for tracking sales record, and showing dashboard on individual performance. I also shared the template to team for their personal use as well as demonstrated them the maintenance of the template.
 
 
-[]!(https://github.com/munirauni/Sales_Tracker_Template/blob/main/docs/assets/Sales%20Tracker%20Template.png)
+![](https://github.com/munirauni/Sales_Tracker_Template/blob/main/docs/assets/Sales%20Tracker%20Template.png)
 [Click here to get the template](https://docs.google.com/spreadsheets/d/1_lsWtNfyo7FQaS-gufRl0DeGhB0UC3IcvaAG82zkq3U/edit?usp=sharing)
 
 
